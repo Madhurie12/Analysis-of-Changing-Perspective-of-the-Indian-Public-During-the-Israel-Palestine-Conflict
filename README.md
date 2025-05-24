@@ -13,6 +13,8 @@ This repository contains Jupyter notebooks analyzing the Gaza-Israel conflict. T
 
 ## 📂 In Data.zip
 
+| File                | Description                                      |
+|-------------------------|--------------------------------------------------|
 | **Jordan_data.xlsx**     | Dataset for Jordan's economic and demographic analysis. |
 | **India_data.xlsx**      | Dataset for India's economic and demographic analysis. |
 | **Egypt_data.xlsx**      | Dataset for Egypt's economic and demographic analysis. |
