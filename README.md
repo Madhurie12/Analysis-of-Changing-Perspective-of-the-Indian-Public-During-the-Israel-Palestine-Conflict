@@ -2,13 +2,18 @@
 
 This repository contains Jupyter notebooks analyzing the Gaza-Israel conflict. The analysis includes data visualizations, statistical summaries, and insights into the ongoing situation.
 
-## 📂 Notebooks
+## 📂 Files
 
-| Notebook                | Description                                      |
+| File                | Description                                      |
 |-------------------------|--------------------------------------------------|
 | **GAZA ISRAEL 1.ipynb** | Part 1: Initial data exploration and visualization. |
 | **GAZA ISRAEL 2.ipynb** | Part 2: Deeper insights, trends, and visualizations. |
 | **gaza-israel 3.ipynb** | Part 3: Advanced analysis and potential forecasting. |
+| **reddit_scraper.py**    | Python script to scrape posts and comments from Reddit using the PRAW API. |
+| **Jordan_data.xlsx**     | Dataset for Jordan's economic and demographic analysis. |
+| **India_data.xlsx**      | Dataset for India's economic and demographic analysis. |
+| **Egypt_data.xlsx**      | Dataset for Egypt's economic and demographic analysis. |
+| **United_States_data.xlsx**    | Dataset for United State's economic and demographic analysis. |
 
 ## 🚀 Getting Started
 
